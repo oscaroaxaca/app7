@@ -2,13 +2,13 @@
 
 <widget xmlns = "http://www.w3.org/ns/widgets"
 xmlns:gap="http://phonegap.com/ns/1.0"
-id ="com.phonegap.example6"
+id ="com.phonegap.example7"
 version ="1.0.0">
 
-<name>app6 Batalla de Puebla</name>
+<name>app7 Deslizar izquierda y derecha</name>
 
 <description>
-Aplicacion que habla sobre la batalla del 5 de mayo
+Aplicacion que desliza de izquierda y derecha 
 </description>
 
 <author href="https://build.phonegap.com" email="Oscar_telez_oaxaca@hotmail.com">
